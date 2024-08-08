@@ -1,0 +1,44 @@
+2024-08-07 20:10:08,144 - INFO - Script interrupted by user.
+2024-08-07 20:10:32,885 - INFO - Script started.
+2024-08-07 20:10:32,886 - INFO - Running job scrape.
+2024-08-07 20:10:32,886 - INFO - Filtering out Linux
+2024-08-07 20:10:35,160 - INFO - Data exported to 'jobs.xlsx'.
+2024-08-07 20:11:05,165 - INFO - Running job scrape.
+2024-08-07 20:11:05,165 - INFO - Filtering out Linux
+2024-08-07 20:11:06,926 - INFO - Data exported to 'jobs.xlsx'.
+2024-08-07 20:11:36,928 - INFO - Running job scrape.
+2024-08-07 20:11:36,928 - INFO - Filtering out Linux
+2024-08-07 20:11:38,307 - INFO - Data exported to 'jobs.xlsx'.
+2024-08-07 20:12:08,313 - INFO - Running job scrape.
+2024-08-07 20:12:08,314 - INFO - Filtering out Linux
+2024-08-07 20:12:09,848 - INFO - Data exported to 'jobs.xlsx'.
+2024-08-07 20:12:39,855 - INFO - Running job scrape.
+2024-08-07 20:12:39,855 - INFO - Filtering out Linux
+2024-08-07 20:12:41,501 - INFO - Data exported to 'jobs.xlsx'.
+2024-08-07 20:13:11,506 - INFO - Running job scrape.
+2024-08-07 20:13:11,506 - INFO - Filtering out Linux
+2024-08-07 20:13:12,557 - INFO - Data exported to 'jobs.xlsx'.
+2024-08-07 20:13:42,560 - INFO - Running job scrape.
+2024-08-07 20:13:42,560 - INFO - Filtering out Linux
+2024-08-07 20:13:44,193 - INFO - Data exported to 'jobs.xlsx'.
+2024-08-07 20:14:14,197 - INFO - Running job scrape.
+2024-08-07 20:14:14,198 - INFO - Filtering out Linux
+2024-08-07 20:14:16,194 - INFO - Data exported to 'jobs.xlsx'.
+2024-08-07 20:14:46,196 - INFO - Running job scrape.
+2024-08-07 20:14:46,197 - INFO - Filtering out Linux
+2024-08-07 20:14:47,659 - INFO - Data exported to 'jobs.xlsx'.
+2024-08-07 20:15:17,660 - INFO - Running job scrape.
+2024-08-07 20:15:17,660 - INFO - Filtering out Linux
+2024-08-07 20:15:18,839 - INFO - Data exported to 'jobs.xlsx'.
+2024-08-07 20:15:48,843 - INFO - Running job scrape.
+2024-08-07 20:15:48,844 - INFO - Filtering out Linux
+2024-08-07 20:15:50,166 - INFO - Data exported to 'jobs.xlsx'.
+2024-08-07 20:16:20,172 - INFO - Running job scrape.
+2024-08-07 20:16:20,173 - INFO - Filtering out Linux
+2024-08-07 20:16:21,379 - INFO - Data exported to 'jobs.xlsx'.
+2024-08-07 20:16:51,381 - INFO - Running job scrape.
+2024-08-07 20:16:51,381 - INFO - Filtering out Linux
+2024-08-07 20:16:52,849 - INFO - Data exported to 'jobs.xlsx'.
+2024-08-07 20:17:22,855 - INFO - Running job scrape.
+2024-08-07 20:17:22,856 - INFO - Filtering out Linux
+2024-08-07 20:17:24,082 - INFO - Data exported to 'jobs.xlsx'.
