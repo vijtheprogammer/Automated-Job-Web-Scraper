@@ -52,10 +52,6 @@ Logs are written to `scraper.log` and include:
 - Information about each scraping cycle
 - Any errors or exceptions encountered
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or comments, please contact [aryan.vij@gmail.com](mailto:aryan.vij@gmail.com).
