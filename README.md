@@ -1,4 +1,4 @@
-# Job Scraper
+# Automated Job Web Scraper
 
 This Python script scrapes job listings from TimesJobs and filters out jobs that require skills you're not familiar with. The filtered job data is saved into an Excel file for easy review.
 
